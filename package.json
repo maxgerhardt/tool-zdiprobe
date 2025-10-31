@@ -1,0 +1,18 @@
+{
+    "name": "tool-zdiprobe",
+    "version": "1.0.0",
+    "description": "ZDI upload tool for eZ80 microcontrollers",
+    "keywords": [
+        "tools",
+        "uploader",
+        "ez80",
+        "zdi"
+    ],
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maxgerhardt/platform-zilogz80"
+    },
+    "system": "*",
+    "packageType": "tool"
+}
